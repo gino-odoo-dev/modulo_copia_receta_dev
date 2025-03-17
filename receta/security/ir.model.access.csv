@@ -1,0 +1,13 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_articulos,access_articulos,model_cl_product_articulos,,1,1,1,1
+access_cantidad,access_cantidad,model_cantidad,,1,1,1,1
+access_componente,access_componente,model_componente,,1,1,1,1
+access_compramanufactura,access_compramanufactura,model_compra_manufactura,,1,1,1,1
+access_copiafichatecnica,access_copiafichatecnica,model_copiaficha,,1,1,1,1
+access_costoampliado,access_costoampliado,model_costo_ampliado,,1,1,1,1
+access_costounitario,access_costounitario,model_costo_unitario,,1,1,1,1
+access_departamento,access_departamento,model_departamento,,1,1,1,1
+access_factorperdida,access_factorperdida,model_factor_perdida,,1,1,1,1
+access_fichatecnica,access_fichatecnica,model_fichatecnica,,1,1,1,1
+access_secuencia,access_secuencia,model_codigosecuencia,,1,1,1,1
+access_temporada,access_temporada,model_cl_product_temporadas,,1,1,1,1

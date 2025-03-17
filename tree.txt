@@ -1,0 +1,22 @@
+receta/
+├── __init__.py
+├── __manifest__.py
+│
+├── views/
+│   └── receta_model_views.xml
+│   └── copia_receta_model_views.xml
+│
+├── security/
+│   └── ir.model.access.csv
+│
+├── tests/
+│   └── 
+│
+├── static/
+│   └── src/
+│       └── css/
+│           └── style.css/
+│
+└── models/
+    ├── __init__.py
+    └── fichatecnica.py
